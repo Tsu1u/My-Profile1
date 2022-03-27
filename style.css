@@ -10,7 +10,7 @@ body {
     font-size: 16px;
     line-height: 1.5;
     color: #333;
-    background-color: #D69DF5;
+    background-color: #A18AE6;
     font-family: 'Poppins', sans-serif; 
 }
 ul {
@@ -36,7 +36,7 @@ h1, h2{
 }
 
 .navbar {
-    background: #CF4FF5;
+    background: #906CE6;
     color: white;
     height: 60px;
 }
@@ -60,7 +60,7 @@ h1, h2{
 }
 
 header {
-    background-color: #8B35A6;
+    background-color: #674EA6;
     color: white;
     min-height: 400px;
 
@@ -120,7 +120,7 @@ header .con {
 
 .box {
     flex: 1;
-    background: #562166;
+    background: #403066;
     color: #fff;
     border-radius: 10px;
     margin: 20px 10px;
@@ -130,7 +130,7 @@ header .con {
 
 .box1 {
     flex: 1;
-    background: #562166;
+    background: #403066;
     color: #fff;
     border-radius: 10px;
     margin: 20px 10px;
@@ -140,7 +140,7 @@ header .con {
 
 .box2 {
     flex: 1;
-    background: #562166;
+    background: #403066;
     color: #fff;
     border-radius: 10px;
     margin: 20px 10px;
@@ -149,7 +149,7 @@ header .con {
 }
 .box3 {
     flex: 1;
-    background: #562166;
+    background: #403066;
     color: #fff;
     border-radius: 10px;
     margin: 20px 10px;
@@ -159,7 +159,7 @@ header .con {
 
 .box4 {
     flex: 1;
-    background: #562166;
+    background: #403066;
     color: #fff;
     border-radius: 10px;
     margin: 20px 10px;
@@ -168,7 +168,7 @@ header .con {
 }
 .box5 {
     flex: 1;
-    background: #562166;
+    background: #403066;
     color: #fff;
     border-radius: 10px;
     margin: 20px 10px;
@@ -177,7 +177,7 @@ header .con {
 }
 .box6 {
     flex: 1;
-    background: #562166;
+    background: #403066;
     color: #fff;
     border-radius: 10px;
     margin: 20px 10px;
@@ -186,7 +186,7 @@ header .con {
 }
 .pro1  {
     flex: 1;
-    background: #562166;
+    background: #403066;
     color: #fff;
     border-radius: 10px;
     margin: 20px 30px;
@@ -198,7 +198,7 @@ header .con {
 
 .box7 {
     flex: 1;
-    background: #562166;
+    background: #403066;
     color: #fff;
     border-radius: 10px;
     margin: 20px 10px;
@@ -207,7 +207,7 @@ header .con {
 }
 .box8 {
     flex: 1;
-    background: #562166;
+    background: #403066;
     color: #fff;
     border-radius: 10px;
     margin: 20px 10px;
@@ -216,7 +216,7 @@ header .con {
 }
 .box9 {
     flex: 1;
-    background: #562166;
+    background: #403066;
     color: #fff;
     border-radius: 10px;
     margin: 20px 10px;
@@ -225,7 +225,7 @@ header .con {
 }
 .box10 {
     flex: 1;
-    background: #562166;
+    background: #403066;
     color: #fff;
     border-radius: 10px;
     margin: 20px 10px;
@@ -242,7 +242,7 @@ header .con {
 
 
 }
-
+}
 .boxes .con {
     display: block;
     text-align: center  ;
